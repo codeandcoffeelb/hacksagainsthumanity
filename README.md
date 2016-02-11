@@ -16,3 +16,5 @@ Instead, HAH! will focus on the exact opposite:
 * Did I mention fun?
 
 Right now this is just a concept - we have little more than the name to go on - but we believe there's an opportunity here to have fun, hack together, and... keep it real, yo.
+
+If you want to help, jump on the [Code && Coffee Slack](https://codeandcoffee.slack.com) or join the conversations in our [Github issues list](https://github.com/codeandcoffeelb/hacksagainsthumanity/issues).

@@ -1,4 +1,4 @@
-# hacksagainsthumanity
+# Hacks Against Humanity
 A working repo for a future event
 
 Hacks Against Humanity (HAH!) is the working name for a future hackathon event, born out of common frustrations with other events:
